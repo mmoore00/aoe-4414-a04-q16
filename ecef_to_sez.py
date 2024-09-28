@@ -45,7 +45,7 @@ def calc_denom(ecc, lat_rad):
             
 
 # initialize script arguments
-rECEF_sez = [0, 0, 0]
+rSEZ = [0, 0, 0]
 Ry = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 Rz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
