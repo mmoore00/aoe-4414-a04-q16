@@ -15,7 +15,7 @@
 #  Print the SEZ coordinates
 #
 # Written by Matthew Moore
-# Other contributors: None
+# Other contributors: Brad Denby
 #
 # Optional license statement, e.g., See the LICENSE file for the license.
 
